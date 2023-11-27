@@ -24,5 +24,18 @@ img {
 
 main {
     background-color: whitesmoke;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
 }
 
+footer {
+    text-align: center;
+}
+
+footer p {
+    font-size: 0.8em;
+}
+
+footer a {
+    text-decoration: none;
+}
