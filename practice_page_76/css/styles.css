@@ -18,3 +18,8 @@ header {
     font-style: italic;
     text-decoration: none;
 } 
+
+#hero_image {
+    max-width: 100%;
+}
+
