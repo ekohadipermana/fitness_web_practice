@@ -5,9 +5,10 @@ header {
 }
 
 #nav {
-    background-color: #1640D6;
+    background-color: #001B79;
     width: 100%;
     text-align: center;
+    padding: 0.5em;
 }
 
 #nav a {
