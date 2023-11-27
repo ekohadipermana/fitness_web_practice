@@ -14,5 +14,6 @@ header {
     color: aliceblue;
     font-size: 0.9em;
     padding: 2em;
-    
+    font-style: italic;
+    text-decoration: none;
 } 
