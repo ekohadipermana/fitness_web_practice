@@ -23,3 +23,7 @@ header {
     max-width: 100%;
 }
 
+#main {
+    background-color: #E5D4FF;
+    padding: 0.5em;
+}
