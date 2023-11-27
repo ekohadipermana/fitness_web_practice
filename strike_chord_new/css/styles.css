@@ -11,8 +11,14 @@ nav {
 }
 
 nav a {
+    font-size: 1em;
+    font-style: italic;
     text-decoration: none;
     color: azure;
     padding: 1.5em;
+}
+
+img {
+    width: 100%;
 }
 
