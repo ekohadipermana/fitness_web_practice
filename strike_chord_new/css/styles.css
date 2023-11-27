@@ -3,3 +3,16 @@ header {
     font-style: italic;
     color: blue;
 }
+
+nav {
+    padding: 1em;
+    text-align: center;
+    background-color: blueviolet;
+}
+
+nav a {
+    text-decoration: none;
+    color: azure;
+    padding: 1.5em;
+}
+
