@@ -27,3 +27,17 @@ header {
     background-color: #E5D4FF;
     padding: 0.5em;
 }
+
+#main p {
+    text-align: center;
+}
+
+#footer {
+    text-align: center;
+    color: #1640D6;
+    font-size: 0.9em;
+}
+
+#footer a {
+    text-decoration: none;
+}
