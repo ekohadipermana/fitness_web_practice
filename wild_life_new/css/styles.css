@@ -1,3 +1,7 @@
+header {
+    background-image: ./images/guitar.jpg;
+}
+
 header h1 {
     font-style: normal;
     font-weight: bold;
