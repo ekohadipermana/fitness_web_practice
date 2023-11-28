@@ -36,3 +36,8 @@ nav a {
     color: aliceblue;
     padding: 2em;
 }
+
+main {
+    background-color: bisque;
+    padding: 0.5em;
+}
