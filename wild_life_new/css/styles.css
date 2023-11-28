@@ -1,3 +1,7 @@
+img {
+    width: 100%;
+}
+
 #wild {
     position: absolute;
     top: 5%;
@@ -19,6 +23,16 @@
 
 #header h3 {
     font-size: 1.5em;
-    
+}
 
+nav {
+    background-color: black;
+    padding: 1em;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    color: aliceblue;
+    padding: 2em;
 }
