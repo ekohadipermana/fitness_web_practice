@@ -1,14 +1,23 @@
-header {
-    background-image: ./images/guitar.jpg;
+#wild {
+    position: absolute;
+    top: 20%;
+    left: 20%;
 }
 
-header h1 {
+#rescue {
+    position: absolute;
+    top: 80%;
+}
+
+#header h1 {
+    
     font-style: normal;
     font-weight: bold;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;   
 }
 
-header h3 {
+#header h3 {
     font-size: 1.5em;
+    
 
 }
